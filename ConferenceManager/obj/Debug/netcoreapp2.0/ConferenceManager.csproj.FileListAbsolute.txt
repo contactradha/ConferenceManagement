@@ -1,0 +1,14 @@
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\bin\Debug\netcoreapp2.0\ConferenceManager.deps.json
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\bin\Debug\netcoreapp2.0\ConferenceManager.runtimeconfig.json
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\bin\Debug\netcoreapp2.0\ConferenceManager.runtimeconfig.dev.json
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\bin\Debug\netcoreapp2.0\ConferenceManager.dll
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\bin\Debug\netcoreapp2.0\ConferenceManager.pdb
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\obj\Debug\netcoreapp2.0\ConferenceManager.csprojResolveAssemblyReference.cache
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\obj\Debug\netcoreapp2.0\ConferenceManager.csproj.CoreCompileInputs.cache
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\obj\Debug\netcoreapp2.0\ConferenceManager.AssemblyInfoInputs.cache
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\obj\Debug\netcoreapp2.0\ConferenceManager.AssemblyInfo.cs
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\obj\Debug\netcoreapp2.0\ConferenceManager.dll
+C:\RK\Labs\TW\Assignment\ConferenceManager\ConferenceManager\obj\Debug\netcoreapp2.0\ConferenceManager.pdb
